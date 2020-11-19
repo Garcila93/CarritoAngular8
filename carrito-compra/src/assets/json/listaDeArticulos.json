@@ -1,9 +1,9 @@
 [
     {
-    "nombre" : "zapato generico",
-    "descripcion" : "zapato generico de color negro, feo pero funcional",
+    "nombre" : "Zapato Genérico",
+    "descripcion" : "Zapato genérico de color negro, feo pero funcional",
     "ref" : 8472914856,
-    "color" : "negro",
+    "color" : "Negro",
     "talla": 42,
     "cantidad" : 1,
     "precio" : 49.99,
